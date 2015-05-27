@@ -5,6 +5,25 @@ date:   2015-05-27 17:07:59
 categories: jekyll update
 ---
 
+# 큰 제목
+#### 작은 제목
+
+*기울여쓰기*
+**굵게쓰기**
+
+* 인라인 링크 [구글](http://www.google.com/).*
+
+-kim
+-dong
+-jun
+
+
+1. Apple
+2. Bannana
+
+![Valid XHTML](http://w3.org/Icons/valid-xhtml10).
+
+
 
 {% highlight ruby %}
 #include<stdio.h>
