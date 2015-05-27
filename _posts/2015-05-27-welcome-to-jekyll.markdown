@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "kim dong jun!"
 date:   2015-05-27 17:07:59
 categories: jekyll update
 ---
