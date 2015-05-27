@@ -13,9 +13,7 @@ categories: jekyll update
 
 * 인라인 링크 [구글](http://www.google.com/).*
 
--kim
-+dong
-*jun
+-kim+dong*jun
 
 
 1. Apple
