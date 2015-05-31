@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "kim dong jun!"
+title:  "second"
 date:   2015-05-27 17:07:59
 categories: jekyll update
 ---
