@@ -1,0 +1,11 @@
+.content-wrapper {
+  @include clearfix;
+
+  .content-inner {
+    @include outer-container(90%);
+
+    @include media($medium-screen) {
+      @include outer-container(80%);
+     }
+  }
+}

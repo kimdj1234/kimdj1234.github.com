@@ -1,0 +1,65 @@
+%transition {
+  transition: all .3s ease;
+}
+
+%padding-regular {
+  padding: $spacing-s;
+}
+
+%padding-large {
+  padding: $spacing-m;
+}
+
+%button {
+  -webkit-font-smoothing: antialiased;
+  background-color: $base-button-color;
+  border: 2px solid $base-button-color;
+  border-radius: $base-border-radius;
+  color: white;
+  display: inline-block;
+  font-size: .6em;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  line-height: 1;
+  padding: 1.2em .8em;
+  text-decoration: none;
+
+  &:hover {
+    background-color: transparentize($base-button-color, .2);
+    border: 2px solid transparentize($base-button-color, 1);
+    color: white;
+  }
+
+  &:disabled {
+    cursor: not-allowed;
+    opacity: 0.5;
+  }
+}
+
+%button-alt {
+  -webkit-font-smoothing: antialiased;
+  background-color: transparent;
+  border: 2px solid $base-button-color;
+  border-radius: $base-border-radius;
+  color: $base-button-color;
+  display: inline-block;
+  font-size: .6em;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  line-height: 1;
+  padding: 1.2em .8em;
+  text-decoration: none;
+
+  &:hover {
+    background-color: $base-button-color;
+    border: 2px solid transparentize($base-button-color, 1);
+    color: white;
+  }
+
+  &:disabled {
+    cursor: not-allowed;
+    opacity: 0.5;
+  }
+}

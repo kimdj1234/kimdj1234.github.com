@@ -1,0 +1,21 @@
+button,
+input[type="submit"],
+.plink {
+  @extend %button;
+  @extend %transition;
+  @include appearance(none);
+  cursor: pointer;
+  user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+.plink2 {
+	@extend %button-alt;
+  @extend %transition;
+  @include appearance(none);
+  cursor: pointer;
+  user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+}

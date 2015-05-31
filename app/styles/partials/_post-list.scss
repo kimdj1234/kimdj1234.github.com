@@ -1,0 +1,117 @@
+.blog-wrapper {
+  @include clearfix;
+
+  .blog-inner {
+    @include outer-container(90%);
+
+    @include media($medium-screen) {
+      @include outer-container(80%);
+     }
+  }
+}
+
+.posts {
+  overflow: hidden;
+  margin: 0 0 60px;
+  padding: 0;
+
+  li {
+    display: inline-block;
+    width: 100%;
+    border-bottom: 1px solid $border-color;
+
+    .p-wrap {
+      padding: $spacing-ml 0;
+      @include transition (all 0.15s ease-in);
+
+      &:active {
+        background: $smoke-color;
+      }
+
+      &:hover {
+        opacity: .6;
+
+        &::after {
+          content:'\2192';
+          margin-left: $spacing-xs;
+          @media (max-width: 942px) {
+            content: none;
+            margin: 0;
+          }
+        }
+      }
+
+      p, h3 {
+        font-size: 1em;
+        display: inline;
+        margin: $spacing-xs 0 0;
+      }
+
+    } // end .p-wrap
+
+    time {
+      font-family:  $variant-family;
+      color: lighten($text-color, 40%);
+      padding-right: $spacing-s;
+      @media (max-width: 942px) {
+      display: block;
+      }
+    }
+
+    a {
+      color: $text-color;
+      text-decoration: none;
+    }
+
+  } // end li
+
+  li:last-child {
+    border: none;
+  }
+
+  li.controls {
+    text-align: center;
+  }
+
+  li.controls a {
+    color: #ccc;
+    border: 1px solid;
+    font-size: .8em;
+    margin-top: 30px;
+    padding: 10px 8px;
+    display: inline-block;
+    @include transition(all .2s linear);
+
+    &:hover {
+      background: #ccc;      
+      color: #fff;
+    }
+  }
+
+} // end .posts
+
+.pagination {
+  overflow: hidden;
+  margin-top: 40px;
+  color: lighten($text-color, 60%);
+  text-align: center;
+  border: 1px solid $border-color;
+
+  a, span {
+    box-sizing: border-box;
+    float: left;
+    width: 50%;
+    padding: 20px;
+    text-decoration: none;
+
+    &:first-child {
+      text-decoration: none;
+      border-right: 1px solid $border-color;
+    }
+  }
+
+  a:hover {
+      text-decoration: none;
+      background-color: darken($smoke-color, 5%);
+  }
+} // end .pagination

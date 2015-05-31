@@ -1,0 +1,38 @@
+// Colors
+$main-color:        mediumseagreen;
+$bg-color:          white;
+
+$text-color:        black;
+$link-color:        $main-color;
+$border-color:      #eee;
+$smoke-color:       whitesmoke;
+$gray:              #ccc;
+
+$base-button-color: $main-color;
+$base-border-radius: 2px;
+
+
+// Typography
+$font-family:       'Open Sans', Helvetica, Arial, sans-serif;
+$headings-family:   'Open Sans', Helvetica, Arial, sans-serif;
+$variant-family:    $font-family; // Serif font: Lora, Georgia, serif
+$font-size-l:       1.6em; // font-size on desktop type screens
+$font-size-m:       $font-size-l * 0.8; // font-size under 942px wide screens
+$font-size-s:       $font-size-l * 0.6; // font-size under 642px wide screens
+
+
+// Spacings
+$spacing-xs:        .5em;
+$spacing-s:         $spacing-xs * 2;
+$spacing-sm:        $spacing-s + $spacing-xs;
+$spacing-m:         $spacing-sm + $spacing-xs;
+$spacing-ml:        $spacing-m + $spacing-xs;
+$spacing-l:         $spacing-ml + $spacing-s;
+$spacing-xl:        $spacing-l + $spacing-s;
+
+// Z-Index
+$z-below-content: -1;
+$z-content: 0;
+$z-above-content: 1;
+$z-layer-2: 2;
+$z-above-all: 9999;

@@ -1,0 +1,11 @@
+---
+layout: hero-image
+title:  "A Lounge"
+subtitle: "HTML Template Design & Code"
+date:   2014-04-09
+preview-image: /images/portfolio/2014-alounge-preview.jpg
+feature-image: /images/portfolio/2014-alounge-browser.jpg
+plink: http://www.a-lounge-berlin.de/
+---
+
+A-Lounge is a small club in Berlin aiming for an older, more settled crowd. It's connected to the famous Albert's restaurant and situated near Alexanderplatz. The website features a minimal but playful mainstream design.

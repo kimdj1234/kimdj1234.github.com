@@ -1,0 +1,25 @@
+---
+layout: hero-image
+title:  "Yuuta"
+subtitle: "Free WordPress theme"
+date:   2015-04-15
+preview-image: /images/portfolio/2015-yuuta-preview.jpg
+feature-image: /images/portfolio/2015-yuuta-browser.jpg
+plink: http://demo.felixdorner.com/yuuta
+---
+
+*Comitted to the WordPress directory - waiting for approval*
+
+<hr>
+
+Yuuta is a Japanese name and is made up of 優 (yuu) “gentleness, superiority”, 悠 (yuu) “distant, leisurely” or 勇 (yuu) “brave” combined with 太 (ta) “thick, big”.
+
+It is a clean and free WordPress theme designed to serve as a visual diary. Due to support of all post formats the theme is capable of displaying a pretty diversified blog.
+
+- Assign unique background images to every post
+- Yuuta comes with two beautiful typefaces (Roboto & Roboto Slab) and was designed especially for readability on every screen
+- A fully responsive liquid design displays your content fluently on desktop, tablets and smartphones
+- Due to support of all post formats you can create a pretty diversified blog
+- The theme is ready for translation/localization with .mo and .po files included
+- The footer area is ready to get filled width your favorite widgets in four columns
+- Editor style is included to match the WordPress editing experience to the theme’s look

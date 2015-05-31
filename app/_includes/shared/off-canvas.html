@@ -1,0 +1,65 @@
+<div class="off-canvas">
+  <div class="off-wrapper">
+
+    <div>
+
+      <figure class="avatar">
+        <img src="{{ site.baseurl }}/images/avatar.jpg" alt="{{ site.author.name }}" title="That's me, {{ site.author.name }}.">
+      </figure>
+
+      <div class="bio">
+          <h2>{{ site.name }}</h2>
+          <p>{{ site.author.bio }}</p>
+      </div>
+
+    </div>
+
+    {% if site.data.services %}
+      <div>
+        {% for service in site.data.services %}
+        <div class="service">
+          <h3>{{ service.name }}</h3>
+          <p>{{ service.description }}</p>
+        </div>
+        {% endfor %}
+      </div>
+    {% endif %}
+
+    <nav>
+      <ul>
+
+        {% if site.author.twitter %}
+          <li><a target="_blank" href="http://twitter.com/{{ site.author.twitter }}">
+            <span class="icon-twitter"></span>
+          </a></li>
+        {% endif %}
+
+        {% if site.author.github %}
+          <li><a target="_blank" href="http://github.com/{{ site.author.github }}">
+            <span class="icon-github"></span>
+          </a></li>
+        {% endif %}
+
+        {% if site.author.dribbble %}
+          <li><a target="_blank" href="http://dribbble.com/{{ site.author.dribbble }}">
+            <span class="icon-dribbble"></span>
+          </a></li>
+        {% endif %}
+
+        {% if site.author.instagram %}
+          <li><a target="_blank" href="http://instagram.com/{{ site.author.instagram }}">
+            <span class="icon-instagram"></span>
+          </a></li>
+        {% endif %}
+
+      </ul>
+    </nav>
+
+    <div class="cta">
+      <span>Get in touch →</span>
+      <a href="https://felixdorner.typeform.com/to/QQB539"><button>Project Planner</button></a>
+      <a href="mailto:{{ site.author.email }}"><button>Email</button></a>
+    </div>
+
+  </div>
+</div>

@@ -1,0 +1,15 @@
+---
+layout: hero-image
+title:  "BRIE ET SES AMIS"
+subtitle: "Multilingual eCommerce Project"
+date:   2014-12-09
+preview-image: /images/portfolio/2014-brie-preview.jpg
+feature-image: /images/portfolio/2014-brie-browser.jpg
+plink: https://brie-et-amis.com
+---
+
+Four generations of experience in selling cheese set the base for a wonderful new family-owned start-up.
+
+[BRIE ET SES AMIS](https://brie-et-amis.com/) delivers the lively cheese tradition of France to your home. You can order subscriptions with hand-picked pieces or buy delicious brie a la carte. The French-German family business will supply you with freshly delivered goods on a regular basis.
+
+The project's challenge was to design and build a multilingual eCommerce solution with a subscriptions module and different payment gateways based on WordPress and WooCommerce.

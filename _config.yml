@@ -1,109 +1,55 @@
-### GENERAL SETTINGS ###
+# Base Jekyll configuration
 
-# Site settings
-title: Welcome to the 전자기기's world.
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "" #important: start with /
-url: "http://yourdomain.com"
+# Grunt handles some Jekyll configuration. If you set something here and
+# it doesn't work, check if it is set in the Gruntfile.
 
-# Build settings
-markdown: kramdown
-permalink: /:categories/:title
-excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
+# Use _config.build.yml to override these settings on `grunt build`.
 
-colors:  #in hex code if not noted else
-  primary: "#00b3fe" #"#F70031" 
-  primary_rgb: "0,179,254" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.  
-  secondary: "#384452" #"#33004D"
-  link: "#428bca"
-  link_hover: "#01b2fe"
-  footer_heading: "#ffffff"
-  footer_content: "#bfc9d3"
-  
-  
-### CONTACT SETTINGS ###
+name: Studio DRNR
+description: "Small studio for web development & design"
+production_url: http://drnr.co
 
-# Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
-social:
-  - title: dribbble
-    url:
-  - title: facebook
-    url:
-  - title: twitter
-    url: 
-  - title: instagram
-    url: 
-  - title: tumblr
-    url: 
-    
-# Postal address (add as many lines as necessary). Shown in footer and on Contact page.
-address:
-  - lines: 
-    - Some Ave, 987,
-    - 23890, New York,
-    - United States.
-email: hello@solidtheme.com
-tel: +34 8493-4893
+author:
+  name:       Felix Dorner
+  email:      mail@felixdorner.com
+  hero:       "Small studio for web development & design"
+  bio:        "Small studio for web development & design based in Berlin and run by Felix Dorner. Capabilities are marked by professional, thoughtful concepts and execution."
+  twitter:    felixdorner
+  github:     felixdorner
+  dribbble:   felixdorner
+  instagram:  felixdorner
 
+# Exclude directories and/or files from the conversion.
+# Grunt moves image files and the styles/scripts directories.
+exclude: ['node_modules', 'styles', 'scripts', '**.png', '**.jpg', '**.jpeg', '**.gif', '**.webp', '**.svg', '**.ico']
 
-### GENERAL DATA FOR VARIOUS LOCATIONS ###
-    
-# Members information. Shown on About page.
-members:
-  - name: Mark Webber
-    position: CEO
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team01.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
-  - name: Paul Jameson
-    position: Lead Designer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team02.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
-  - name: Laura Sommers
-    position: Lead Developer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team03.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
-  - name: Martin Blunt
-    position: Marketing
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team04.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
-    
-# Clients information. Shown on Home and About pages.
-clients:
-  - name: dribbble
-    img: client01.png
-  - name: Code is Poetry
-    img: client02.png
-  - name: Vimeo
-    img: client03.png
-  - name: VimeoPro
-    img: client04.png
-    
-# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+# Force inclusion of directories and/or files in the conversion.
+# .htaccess is a good example since dotfiles are excluded by default.
+include: ['.htaccess']
 
-# Testimonial content. Shown on Home and About page. 
-testimonial:
-    message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-    author: Marcel Newman
-    position: WEB DESIGNER - BLACKTIE.CO
+# Default post path style
+# date  /:categories/:year/:month/:day/:title.html
+# pretty  /:categories/:year/:month/:day/:title/
+# none  /:categories/:title.html
+permalink: pretty
+
+# Publish posts with future date.
+# _config.build.yml sets this to false on `grunt build`
+future: true
+
+# Compile posts in the _drafts directory.
+# _config.build.yml sets this to false on `grunt build`
+show_drafts: false
+
+# Split posts over multiple subdirectories called “page2”, “page3”, … “pageN”
+paginate: 10
+paginate_path: 'blog/page:num'
+
+# Markdown library
+markdown: redcarpet
+# Markdown library options
+# redcarpet:
+  # extensions: ['fenced_code_blocks', 'smart']
+
+# Use Pygments to highlight code blocks
+highlighter: pygments

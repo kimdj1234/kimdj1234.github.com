@@ -1,0 +1,123 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  &::after,
+  &::before {
+    box-sizing: border-box;
+  }
+}
+
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font: $font-size-m $font-family;
+  font-weight: 300;
+  color: $text-color;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  background-color: $bg-color;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $headings-family;
+  font-weight: 700;
+}
+
+h1 {
+  font-size: 250%;
+  margin: $spacing-xs 0;
+}
+
+h2 {
+  font-size: 180%;
+  margin: $spacing-s 0 $spacing-xs;
+}
+
+h3 {
+  font-size: 120%;
+  margin: $spacing-sm 0 $spacing-xs;
+}
+
+h4 {
+  font-size: 120%;
+  margin: $spacing-l 0 $spacing-xs;
+}
+
+h5 {
+  @extend h4;
+}
+
+h6 {
+  @extend h4;
+}
+
+p {
+  margin: 0 0 1.4em;
+  line-height: 1.6;
+}
+
+small {
+  font-size: 60%;
+}
+
+strong {
+  font-family: $headings-family;
+  font-weight: normal;
+}
+
+ul, ol { 
+  list-style-position: outside; 
+  padding-left: 1em;
+  margin: $spacing-m 0 $spacing-m .2em; 
+}
+
+ul li { 
+  list-style-type: disc; 
+  margin-bottom: $spacing-xs; 
+}
+
+ol li { 
+  list-style-type: decimal; 
+  margin-bottom: $spacing-xs; 
+}
+
+a {
+  color: $link-color;
+  text-decoration: none;
+  &:hover {
+    color: $text-color;
+  }
+}
+
+img,
+figure,
+picture {
+  margin: 0;
+  max-width: 100%;
+}
+
+hr {
+  border-style: solid;
+  @include border-width(0 0 1px 0);
+  border-color: #eee;
+}
+
+.content-column-alt {
+  @include outer-container(100%);
+
+  @include media($medium-screen) {
+    @include outer-container(60%);
+  }
+
+}

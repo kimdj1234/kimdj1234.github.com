@@ -1,0 +1,30 @@
+body.noscroll{
+  position:fixed;
+  overflow:hidden;
+
+  @include media($medium-screen) {    
+  	position:relative;
+  	overflow:visible;
+  }
+
+}
+
+.hide {
+	display: none;
+
+	@include media($medium-screen) {    
+  	display: block;  	
+  }
+}
+
+.outer-container {
+	@include outer-container(100%);
+}
+
+.alignright {
+	text-align: right;
+}
+
+.pt-120 {
+	padding-top: 120px;
+}
