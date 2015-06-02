@@ -4,7 +4,7 @@ title: "가성비’ 이상의 가치, 프리미엄 노트북이 몰려온다"
 author: me
 excerpt: "미디어잇"
 categories: blog
-tags: [life, mentality]
+tags: [가격,정보]
 modified:
 image:
   feature: so-simple-sample-image-4-small.jpg
