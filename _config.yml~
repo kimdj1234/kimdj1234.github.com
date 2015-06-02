@@ -1,14 +1,14 @@
 # Site wide configuration
 
-title: 전자기기 세상
+title: 노트북 세상
 locale: en_US
-description: electronic machine's world
+description: lap top's world
 # logo: site-logo.png
 # logo: me.jpg
-logo: ee.png
+logo: machine.png
 me: me.jpg
 search: true
-# url: http://zhued.github.io
+# url: http://kimdj1234.github.io
 url:
 
 
@@ -36,15 +36,15 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Edward Zhu
+  name: 14
   avatar: bio-photo.jpg
-  email: edward.r.zhu@gmail.com
-  disqus-shortname: edwardzhu
-  twitter: edwardisasian
+  email: djkim1102@naver.com
+  disqus-shortname: 14
+  twitter: non
   facebook: #username
-  github: zhued
+  github: kimdj1234
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: edwardrzhu
+  linkedin: kimdj1234
   instagram: #username
   flickr: #username
   tumblr: #username
