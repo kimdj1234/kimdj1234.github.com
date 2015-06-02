@@ -4,7 +4,7 @@ title: "삼성-MS 듀얼OS노트북...애플-IBM 정조준"
 author: me
 excerpt: "전자신문"
 categories: blog
-tags: [design, analysis]
+tags: [디자인,특허]
 modified:
 image:
   feature: so-simple-sample-image-4-small.jpg
