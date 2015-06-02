@@ -2,11 +2,11 @@
 
 title: 노트북 세상
 locale: en_US
-description: World of laoptop
+description: World of laptop
 # logo: site-logo.png
-# logo: me.jpg
+# logo: me.gif
 logo: machine.png
-me: me.jpg
+me: me.gif
 search: true
 # url: http://kimdj1234.github.io
 url:
@@ -36,7 +36,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: 14
+  name: 14조
   avatar: bio-photo.jpg
   email: djkim1102@naver.com
   disqus-shortname: 14조
