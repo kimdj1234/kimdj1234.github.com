@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: Tip
 excerpt: "So Simple is a responsive Jekyll theme for your words and images."
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
@@ -9,24 +9,68 @@ image:
   <!-- creditink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/ -->
 ---
 
-My name is **Edward** and I love new, upcoming technology. I'm currently studying **Computer Science** at the **University of Colorado, Boulder**. I enjoy developing and learning about all forms of software, from lower level System/Firmware code to higher level full stack web application development! 
-
-## Quick Facts:
-
-* Fluent in speaking **Mandarin Chinese**, as well as Shanghainese (dialect of Chinese)
-* I love **volunteering**; Logged **over 400 hours** of non-profit work through various associations such as the Poudre Valley Hospital, the Poudre River Library, and other honor societies.
-* Enjoy **PC gaming**, building and upgrading computers, and staying updated with the latest technologies
+##<font color='red'>노트북 구입시 주의 할 점</font>
 
 
-## Contact Me:
+### 오프라인 매장보다 온라인을 선호 할 것!!!
 
-Below is my email as well as links to my social sites, feel free to contact me and I will try to get back to you as soon as possible!
+먼저 노트북을 구매하시는 분들은 대부분 부모님들입니다. 따라서 온라인보다 오프라인을 선호하실거에요.
+그 이유는 좀만 싸게 달라 해서 매장직원이 깎아주니가 그로 인해 싸게 살 수 있으니 오프라인 매장에서 직접사시는 겁니다.
 
-<i class="fa fa-envelope-o fa-fw"></i>edward.r.zhu@gmail.com
+하지만... 그렇게 매장직원이 깎아서 판매하는 제품보다 온라인에서 사는게 훨씬 더 쌉니다...
 
-<a markdown="0" href="https://www.linkedin.com/in/edwardrzhu" class="btn" target="_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
-<a markdown="0" href="https://github.com/zhued" class="btn" target="_blank"><i class="fa fa-github fa-fw"></i> GitHub</a>
-<a markdown="0" href="https://drive.google.com/file/d/0B8mMgx7E3Dn9OEZtYng1Nmc4RDQ/view" class="btn" target="_blank"><i class="fa fa-edit fa-fw"></i> Resume</a>
+한마디로 온라인 매장이 오프라인 매장보다 훨씬 쌉니다.
+
+오프라인 가격보다 20~40만원 이상이 싸거든요..(각 매장보다 배송비가 있기 때문에...)
+
+솔직히 그 금액을 더 지불하면 아깝죠~ 많이 아깝습니다~ 따지고 보면 생돈 날리시는 거죠.
+적은 돈도 아니고 특히나 학생들은 피눈물을 흘릴 겁니다.
+
+따라서 저렴하게 구입하시려면 온라인 추천합니다!
 
 
-[^1]: Example: *domain.com/category-name/post-title*
+### 무게와 성능을 확인하라!!!
+
+항상 무게만 따지다가 막상 실성능이 그렇게 좋지않은 노트북을 구매할 경우 구입하는 의미도 없어보인다고 생각합니다.
+이유야 당연하겠지만 성능이 좋아야 오래쓰는 법이거든요..
+물론 무조건 영화감상이나 인강, 문서작성용이라면 굳이 고성능 제품을 고집할 필요도 없습니다.
+
+하지만 게임 위주로 하시는 분들이시라면 역시 고성능 제품을 가시는게 좋습니다.
+
+
+### 노트북의 실성능을 좌우하는 부품 설명
+
+CPU
+노트북 CPU성능순서(대략 Intel 위주)
+
+i7(쿼드코어)>i5(듀얼코어)>i3(듀얼코어)>펜티엄 쿼드코어>펜티엄 듀얼코어>샐러론 쿼드코어>샐러론 듀얼코어>아톰
+
+그 외: 저전력 i7(쿼드코어)>저전력 i5(듀얼코어)>저전력 i3(듀얼코어)
+
+저전력 CPU는 얇은 노트북에 많이 쓰며 말그대로 전력소비를 줄인 CPU 입니다. 덕분에 장단점이 있죠.
+
+장점 : 전력소비가 적다, 발열이 적다.
+
+단점 : 전력소비가 줄어든 만큼 CPU의 성능 하향
+
+물론 문서작업, 영화감상이 목적이시면 아무거나 고르셔도 됩니다. 다만 게이밍이 목적인 경우 적어도 i5 이상의 제품을 사용하셔야 원활하게 게이밍이 가능합니다.
+
+
+그래픽카드
+
+노트북 그래픽카드 성능순서(NVIDIA 위주)
+
+노트북의 위장그래픽카드는 NVIDIA와 AMD의 제품을 많이 쓰지만 그 중에 NVIDIA 제품을 더 많이쓰므로 NVIDIA 위주로 설명드리겠습니다.
+현재로썬 900번대 제품이 출시되었지만 아직 보급용 제품이 출시가 안된 관계로 800번대로 예를 들어 설명하겠습니다.
+GTX 880m>GTX 870m>GTX 860m>GTX 850m>GT 840m>GT 830m>GT 820m>GT 810m
+이 중에서 GTX라고 적혀있는 것은 고성능, GT라고 적혀져있는 곳이 보급형입니다.
+GTX라고 적혀있는 제품이 게임시 더 원활하게 플레이가 가능합니다.
+
+
+### A/S가 좋은지 확인해라!!
+
+노트북은 각 회사마다 전용 부품이 따로 있기 때문에 노트북이 파손, 부품고장시 무조건 노트북을 제조한 회사에 A/S를 받아야합니다.
+(물론 대행업체도 있어 그 업체에서 수리해도 되긴합니다만 정식 A/S를 권장합니다)
+
+외산제품은 A/S 센터가 별로없어 용산에 집중해 있습니다. 그래서 A/S 받기엔 다소 불편함이 없진 않습니다.
+물론 대행업체가 많아 외산제품일 경우 그 대행업체에 맡기셔도 수리가 가능합니다.
