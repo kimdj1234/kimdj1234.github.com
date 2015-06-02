@@ -2,7 +2,7 @@
 
 title: 노트북 세상
 locale: en_US
-description: lap top's world
+description: World of laptop
 # logo: site-logo.png
 # logo: me.jpg
 logo: machine.png
@@ -36,15 +36,15 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: 14
+  name: 14조
   avatar: bio-photo.jpg
   email: djkim1102@naver.com
-  disqus-shortname: 14
-  twitter: non
+  disqus-shortname: 14조
+  twitter:
   facebook: #username
   github: kimdj1234
-  stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: kimdj1234
+  stackexchange:
+  linkedin:
   instagram: #username
   flickr: #username
   tumblr: #username

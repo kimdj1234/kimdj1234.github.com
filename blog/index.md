@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog
+title: News
 excerpt: "An archive of blog posts sorted by date."
 image:
   feature: keyboard-bw.jpg

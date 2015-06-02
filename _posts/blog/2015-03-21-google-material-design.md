@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "A new design perspective, by Google."
+title: "삼성-MS 듀얼OS노트북...애플-IBM 정조준"
 author: me
-excerpt: "Material Design"
+excerpt: "전자신문"
 categories: blog
-tags: [design, analysis]
+tags: [디자인,특허]
 modified:
 image:
   feature: so-simple-sample-image-4-small.jpg
@@ -12,17 +12,41 @@ share: true
 comments: true
 ---
 
-# Aesthetically intuitive design concept by Google.
+삼성이 갤럭시노트같은 패블릿을 마이크로소프트(MS) 윈도OS 노트북에 연결해 사용할 수 있도록 해 주는 듀얼OS 노트북 특허를 출원했다. 삼성은 이 듀얼OS기반의 하이브리드 노트북을 통해 애플-IBM연합의 기업용 패블릿 전략에 효율적으로 대항할 수 있게 됐다. 
 
-<video width="100%" height="100%" autoplay loop>
-    <source src="//material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B2wX4iIvu8L6aHVOOGxBOW5jZlE/animation-meaningfultransitions-visualcontinuity_music-tablet-01_xhdpi.webm" type="video/webm">
-    <source src="//material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B2wX4iIvu8L6WlhSSjR4LTZULUk/animation-meaningfultransitions-visualcontinuity_music-tablet-01_xhdpi.mp4" type="video/mp4">
-</video>
+페이턴틀리모바일은 23일(현지시간) 미 특허청발표를 인용, 삼성이 패블릿도크를 가진 차세대 듀얼 OS노트북 특허를 신청했다고 전했다. 
 
-Google designed "Material" with the notion of intuitiveness through simplicity. And through this simplicity, along with directed guidelines, Google envisions a unified ecosystem of design, from websites to mobile applications, so that the universal user can have a familiar, beautiful experience from all applications on all platforms.
+이 듀얼OS노트북은 폰모드의 안드로이드OS 갤럭시노트를 노트북(MS OS기반)에 접속하면 윈도버전으로 자동 전환시켜 준다. 
 
-To experience Material and read my review/analysis of Google's Material Design, please visit the following link below!
+이렇게 되면 삼성 갤럭시노트(안드로이드 OS기반)를 사용하는 기업고객들은 MS 윈도10과 연계되는 원노트, 원 드라이브, 오피스 모바일, 스카이프 등의 앱을 사용할 수 있게 된다. 삼성은 이미 기업용 보안에 강한 블랙베리와도 손잡고 자체 보안솔루션 녹스플랫폼을 강화하고 있다. 
 
-<a href="http://edwardzhu.me/google-material-design/" class="btn" target="_blank"><i class="fa fa-google fa-fw"></i>Google Material Design Review and Analysis</a>
+주목할 것은 삼성이 특허출원서에서 안드로이드 이외의 다른 OS도 MS윈도 기반 노트북에 적용될 수 있을 것이라고 언급하고 있는 점이다. 이는 삼성이 이 패블릿도크 기술을 통한 타이젠OS 사용 가능성도 열어놓은 것으로 해석된다. 동시에 삼성 기업고객들에게 하이브리드 단말기라는 또다른 형태의 솔루션을 제공하는 중요한 전환점이 될 것으로 보인다. 
 
-Thanks for reading!
+
+
+삼성이 갤럭시노트같은 패블릿을 MS 윈도OS기반 노트북에 연결해 사용할 수 있도록 해 주는 듀얼OS 노트북 특허를 출원했다. 도면은 갤럭시노트를 도킹할 수 있는 삼성의 듀얼OS 하이브리드 노트북이다. 사진=미특허청/페이턴틀리모바일
+
+
+지금까지 삼성은 믿을 만한 하드웨어의 부재로 인해 기업용 태블릿 시장에서 애플 아이패드를 따라잡지 못했다. MS역시 믿을 만한 모바일 하드웨어의 부재로 자신들의 모바일퍼스트/클라우드퍼스트 영업에 큰 성과를 내지 못하고 있다. 삼성이 특허출원한 듀얼OS노트북은 그 해결책인 셈이다. 
+
+테크놀로지리포트에 따르면 현재 애플의 iOS기반 아이패드는 기업용 태블릿 시장에서 81% 점유율로 안드로이드(15%),윈도(4%)를 크게 앞서가고 있다. 반면 스마트폰시장에서는 갤럭시 스마트폰과 아이폰이 함께 시장을 주도하고 있다. 
+
+따라서 삼성 듀얼OS노트북을 기반으로 한 삼성,MS 두 회사의 연합은 애플과 IBM의 모바일퍼스트 연합에 강력한 대항마가 될 전망이다.
+
+이 새로운 하이브리드노트북(스마트폰+노트북)단말기는 모바일인터넷키를 통해 와이파이없이 인터넷에 접속할 수 있고 패블릿도크를 통해 충전도 할 수 있다. 
+
+
+특허출원서 도면은 두 단말기가 결합된 상태를 설명하고 있다. 왼쪽 도면은 노트북에서 윈도OS가 돌아가면서도 패블릿에서는 안드로이드OS로 작동하는 모습을 보여준다. 두번째 상태인 오른쪽 도면에서는 패블릿 디스플레이가 단순히 노트북의 터치패드처럼 기능하는 모습을 보여준다.
+
+
+삼성의 듀얼OS 노트북 허출원서 도면은 두 단말기가 결합된 상태에 대해서도 설명하고 있다. 
+
+첫번째 모드에서는 윈도OS가 메인노트북에서 사용되고 있지만 패블릿은 안드로이드OS로 작동하는 모습을 보여준다. 
+
+두번째 모드에서는 패블릿 디스플레이가 단순히 노트북의 터치패드처럼 기능한다. 삼성은 “유저인터페이스가 터치스크린을 터치패드처럼 작동하게 해 디스플레이해 주게 된다”고 설명하고 있다. 
+
+샘모바일은 앞서 삼성 갤럭시S6가 발표되기 전 '삼성이 MS원노트,원드라이브,오피스모바일,스카이프 같은 앱을 사용할 수 있게 할 것'이라고 전한 바 있다. 이후 MS는 모바일퍼스트,클라우드퍼스트컴퓨팅을 적극 홍보하기 시작했다. 
+
+한편 삼성은 지난 해 3분기에 이 듀얼OS노트북에 대한 특허를 출원했다. 
+
+전자신문인터넷 이재구국제과학전문기자 jklee@etnews.com

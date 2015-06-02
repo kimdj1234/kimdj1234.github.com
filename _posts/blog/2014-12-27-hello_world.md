@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Hello World, First Post"
+title: "MSI, 컴퓨텍스2015서 ‘아이트래킹’ 기술 탑재된 노트북 공개"
 author: me
-excerpt: "Little background info about me"
+excerpt: "네이버뉴스"
 categories: blog
-tags: [life, background]
+tags: [게임, 기술]
 modified:
 image:
   feature: so-simple-sample-image-4-small.jpg
@@ -14,22 +14,12 @@ share: true
 comments: true
 ---
 
-Hi. How are you? I don't really know how to start these things. 
+[디지털데일리 이민형] 
 
-While fiddling around with building my website, the thought of starting a blog came to my mind.
+MSI(www.msi.com 회장 조셉 쉬)는 2일 대만에서 열린 컴퓨텍스2015에서 아이트래킹(Eye Tracking) 기술이 탑재된 게이밍 노트북 ‘GT72’를 공개했다.
 
-I'm terrible at writing. Why did I even think about doing so? Why did I even start writing this post? I need to start writing better; maybe that’s why. I heard that being able to convey one’s thoughts through words is one of the best traits a person can have. 
+아이트래킹은 게이머가 게임에 더욱 깊게 몰두할 수 있게 해주는 기술이다. 게이머의 움직임에 따라 자동으로 3D영상을 구현해주는 것이 특징이다.
 
-I’ll even make this blog into some sort diary; jotting down my experiences as I journey through this thing called life. Sounds like a plan. 
+이날 MSI는 인텔 코어 i7 프로세서, 엔비디아(nVIDIA) GTX980M SLI, 기계식 키보드를 장착한 ‘MSI GT80 타이탄(Titan)’도 선보였으며, 사운드 선명도에 특화한 게이밍 노트북 ‘GS60/GS70’도 소개했다.
 
-Well, I better introduce myself. My name is Edward Renxi Zhu. Full bred Chinese. Was born in Corvallis, Oregon (don’t remember a thing about the place though) and then moved to Starkville, Mississippi when I was about two years of age. Fun times in the deep South, many memories and stories about my stay there. But my parents decided to leave as I starting preschool and developed this linguistic trait called Ebonics, very weird to have this trait when you’re full on Asian. Moved to Fort Collins, Colorado around 5 years old and pretty much grew up here; attended K-12 in the town. 
-
-Fast forward to present day, I am currently attending CU Boulder majoring in Computer Science in the Engineering School. Third year student, as of the time I’m writing this, and expected to graduate May 2016. 
-
-That’s it for this post I guess. I just wrote almost three hundred words. FOR FUN.  I hope I continue with this though. Later down the road I’ll be able to see how naïve and stupid I used to be. This should be fun.  Most people won’t even know about this blog, just me and my consciousness. That sounded catchy, I should name this blog something catchy as well…
-
-Let’s make this blog about the evolving perceptions of my life and mentality.
-
-Thanks for reading. Just my random thoughts, that’s all. 
-
-Edward Zhu
+<이민형 기자>kiku@ddaily.co.kr

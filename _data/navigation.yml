@@ -1,17 +1,16 @@
 # Site navigation links
 
-- title: About
+- title: 정보
   url: /about/
 
-- title: Projects
+- title: 역사
   url: /projects/
 
-- title: Blog
+- title: 뉴스
   url: /blog/
 
-- title: Resume
-  url: https://drive.google.com/file/d/0B8mMgx7E3Dn9OEZtYng1Nmc4RDQ/view
-
+- title: 제품
+  url: http://www.naver.com
 
 
 

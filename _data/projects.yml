@@ -1,98 +1,65 @@
-- name: cachesim
-  time: Mar 2015 - May 2015
+- name: IBM 5100 포터블 컴퓨터
+  time: 1975년
   url: 
-  tagline: Simulation of L1, L2, and Main Memory Cache System
-  tools: C
+  tagline: 최초의 휴대용 PC
   description: | 
-    Implemented a simulator in C that will simulate and evaluate a memory system with two levels of cache memory and a main memory.
-    The caches are write-allocate, write-back caches. Simulations ran 5 traces on 15 different cache configurations. Each trace 
-    is about a few billion instructions and total simulations took around 30 hours to run fully. 
-  github:
-    url: zhued/cache-sim
-    branch: master
+     최초의 휴대용 PC 는 미국IBM 이 선보인 '**IBM 5100 포터블 컴퓨터' 입니다.
+     1975 년도에 출시한 이 제품은 1.9MHz 의 CPU 와 5인치의 CRT 모니터가 갖춰져 있습니다.
+     무게는 25kg 입니다. 휴대 까진 아니지만 그래도 이동이 가능했던 점으로
+     노트북의 시초가 된 제품입니다.
+     
 
-- name: anochat
-  time: Feb 2015 +
+ 
+
+- name: 오스본1
+  time: 1981년
   url: 
-  tagline: anonymous chat client
-  tools: Java
+  tagline: 대중의 직접 구매 가능
   description: | 
-    **Currently in progress..** Anonymous chat room/client for fun with friends and understanding web/network sockets.
-  github:
-    url: zhued/anochat
-    branch: master
+     1981년도에 출시된 '**오스본1(Osborne1)' 은 일반 대중이 직접 구매가 가능한
+     휴대용 PC 로 4MHz 에 12kg 의 비교적 가벼운 무게로
+     선풍적인 인기를 끌었던 제품입니다.
 
-- name: leaguestats
-  time: Feb 2015 +
+  
+- name: HX-20
+  time: 1981년
   url: 
-  tagline: league of legends stats tracker using RIOT API
-  tools: Python, JS, AngularJS, Node, MongoDB
+  tagline: 내장 배터리 탑재
   description: | 
-    **Currently in progress..** A system to find statistics that major sites don't offer (Gold/Creep per minute, comparing players, impact on game based on roles, etc).
-  github:
-    url: zhued/leaguestats
-    branch: master
-
-- name: ICUEM
-  time: Jan 2015 - May 2015
+     이전의 노트북은 부피가 크고 외부전원이 필수 였기 때문에 휴대하면서
+     사용하기는 힘들었습니다.
+     1981년 내장배터리를 탑재한 일본 앱손의 'HX-20' 이 등장하면서
+     휴대용 PC 시장에 새바람이 불기 시작했습니다.
+     614KHz 의 CPU 의 성능은 동시대에 다른 제품해 비해 비교적 낮았었지만,
+     가벼운 1.6Kg 의 무게로 실제로 휴대하면서 사용이 가능했었습니다.
+     또 내장프린터를 장착, 문서 출력까지 하나의 제품에서 가능한 점이 특징입니다.
+     하지만, OS 와 내부구조의 문제로 소프트웨어나 주변기기와 호환이 되지 않는 단점이 있습니다.
+    
+  
+- name: 컴팩 포터블
+  time: 1982년
   url: 
-  tagline: interactive CU engineering map
-  tools: Android, iOS, JS, Node, MongoDB, Docco
+  tagline: MS-DOS 를 OS 로 탑재
   description: | 
-    Making the Engineering Center at CU Boulder not a nightmare to navigate. Me and three other students collaborated and created an iOS and Andriod
-    apps that map out the Engineering Center using the architecture blueprints. We incorporated many coding practices such as pair programming, Test
-    Driven Development, Continuous Integration, and AutoDocumentation.
-  github:
-    url: zhued/ICUEM
-    branch: master
+     1982년 미국 컴팩이 선보인 '컴팩 포터블' 은 호환 문제를 해결한 제품입니다.
+     당시에 많은 인기를 끌었던 IBM PC 와 기본구조가 같으면서
+     MS-DOS 를 OS 로 탑재해 호환성이 높았습니다.
+     9인치의 CRT 모니터, 인텔8088 CPU, CGA 그래픽카드 등으로
+     비슷한 시기에 출시된 휴대용 컴퓨터에 비해 성능이 높은 편이었지만,
+     12.5kg 의 무게는 다소 무거웠습니다.
+     
+ 
 
-- name: word clock
-  time: Jan 2015 +
+- name: 도시바 T1100
+  time: 1985년
   url: 
-  tagline: led word clock controlled by arduino
-  tools: Arduino
+  tagline: 현재의 노트북 외형
   description: | 
-    **Currently in progress..** A beautiful workclock that will also function as a tempurature sensor. also simple games can be implemented into it as well.
-    Check out github repo for updates!
-  github:
-    url: zhued/wordclock
-    branch: master
+     이전까지의 휴대용 PC 는 현대의 노트북의 모습과 거리가 멀었고, 외형도 제각각 이었습니다.
+     이런 휴대용 PC 시장을 현재의 노트북처럼 획일화 시킨 제품은 1985년 출시한 '도시바 T1100' 입니다.
+     현재의 노트북처럼 접어서 보관할 수 있으면서 내장배터리, 7cm 의 두께, 4.1kg 의 무게,
+     인텔 80C88 CPU, MS-DOS 를 탑재했습니다.
+     
+  
 
-- name: zhued.github.io
-  time: Dec 2014 - Jan 2015+
-  url: https://zhued.github.io/
-  tagline: personal portfolio/blog site
-  tools: HTML, SASS, JS, Jekyll, Markdown
-  description: Well, er, look around!
-  github:
-    url: zhued/zhued.github.io
-    branch: master
 
-- name: EZList
-  time: Aug 2014 - Dec 2014
-  url:
-  tagline: prototype of an app
-  tools: JustInMind
-  description: |
-    EZList is a mobile app mockup that will allow easier grocery shopping for all
-    users. The basics of this app is to read/input in a shopping list, then based on
-    different settings and preferences, the app will find different routes to stores that 
-    will minimalize the cost of the entire shopping list!
-    This idea was presented at the Atlas Expo at CU Boulder, and received very high remarks
-    and interests!
-  github:
-    url: zhued/EZList
-    branch: master
-
-- name: MDWordcounter
-  time: Nov 2014 - Dec 2014
-  url:
-  tagline: wordcount for github flavored markdown files
-  tools: PHP
-  description: |
-    Developed for showing the wordcount of a Markdown GitHub flavored file. It essentially
-    ignores all Markdown syntax in a file, as well as references and code blocks, and returns
-    a number that corresponds to the number of "true words" there are. 
-  github:
-    url: zhued/MDwordcounter
-    branch: master

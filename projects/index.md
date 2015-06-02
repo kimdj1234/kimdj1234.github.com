@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-excerpt: "An archive of my projects."
+title: History
+excerpt: 노트북의 역사
 image:
   feature: macbook-glasses.jpg
 ---
@@ -25,7 +25,7 @@ image:
 					<a href="{{ project.url }}" class="btn" target="_blank"><i class="fa fa-link fa-fw"></i>view online</a>
 				{% endif %}
 				{% if project.github %}
-					<a href="https://github.com/{{ project.github.url }}" class="btn" target="_blank"><i class="fa fa-github fa-fw"></i>view on GitHub</a>
+					<a href="https://www.github.com/{{ project.github.url }}" class="btn" target="_blank"><i class="fa fa-github fa-fw"></i>view on GitHub</a>
 				{% endif %}
 
 			{% endif %}

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: Information
 excerpt: "So Simple is a responsive Jekyll theme for your words and images."
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
@@ -9,24 +9,29 @@ image:
   <!-- creditink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/ -->
 ---
 
-My name is **Edward** and I love new, upcoming technology. I'm currently studying **Computer Science** at the **University of Colorado, Boulder**. I enjoy developing and learning about all forms of software, from lower level System/Firmware code to higher level full stack web application development! 
-
-## Quick Facts:
-
-* Fluent in speaking **Mandarin Chinese**, as well as Shanghainese (dialect of Chinese)
-* I love **volunteering**; Logged **over 400 hours** of non-profit work through various associations such as the Poudre Valley Hospital, the Poudre River Library, and other honor societies.
-* Enjoy **PC gaming**, building and upgrading computers, and staying updated with the latest technologies
+##<font color='blue'>노트북의 종류와 특성</font>
 
 
-## Contact Me:
+### 넷북
 
-Below is my email as well as links to my social sites, feel free to contact me and I will try to get back to you as soon as possible!
-
-<i class="fa fa-envelope-o fa-fw"></i>edward.r.zhu@gmail.com
-
-<a markdown="0" href="https://www.linkedin.com/in/edwardrzhu" class="btn" target="_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
-<a markdown="0" href="https://github.com/zhued" class="btn" target="_blank"><i class="fa fa-github fa-fw"></i> GitHub</a>
-<a markdown="0" href="https://drive.google.com/file/d/0B8mMgx7E3Dn9OEZtYng1Nmc4RDQ/view" class="btn" target="_blank"><i class="fa fa-edit fa-fw"></i> Resume</a>
+노트북 중에 가장 작은 노트북입니다. 사용용도는 영화감상, 인터넷 서핑용이며 가끔 오래된 게임 2D 게임 같은 것도 돌릴 수 있습니다. 하지만 자체성능이 낮아 온라인 게임류는 구동이 힘듭니다. 또한 모니터 크기도 10인치 정도라 상당히 작고 가벼워서 이동하면서 사용하기는 좋습니다. 가격대는 약 30~70만원대며 기본적으로 GPU는 내장을 쓰고  CPU도 저발열인 아톰 CPU를 사용합니다. 또한 발열이 적다보니 내부에 쿨러 자체도 없습니다. 따라서 넷북은 고사양용이 아닌 간단한 웹 서핑용 입니다,
 
 
-[^1]: Example: *domain.com/category-name/post-title*
+
+### 보급형 노트북
+
+보급형 노트북은 겉모습은 평번한 노트북이지만 성능이 낮고 가격도 싸고(약 70만원 이하) 해상도도 낮은 노트북입니다. 크기는 대략 12-15인치까지 다양합니다. 성능이 낮기 떄문에 발열이 심하지 않고, 조용한 노트북입니다. CPU는 저전력을 쓰고 GPU도 대부분 내장그래픽 카드 입니다. 용도는 문서작업, 웹서핑,영화, 간단한 게임을 할 수 있습니다. 성능이 낮기 때문에 무게도 가볍습니다.
+
+
+
+### 게이밍 노트북
+
+게이밍 성능이 가장 뛰어난 노트북입니다. CPU는 기본적으로 i5이상급이며 외장 그래픽카드도 GTX 입니다. 가겨대는 100만원 이상이며 비싼제품들은 200만원대를 가볍게 넘어섭니다. 또한 가격이 비싼만큼 성능도 막강합니다. 게임에 대해선 타의 추종을 불허하면 출시한 게임들은 전부 높은 사양으로 구동이 가능합니다. 대신 사양이 너무 좋아진 만큼 발열이 심해 그에 맞게 쿨링 성능도 좋아야하기 때문에 대부분 듀얼쿨러와 쿨링 파이프가 장착되어있어 소음이 심하고 무게가 무겁습니다.
+
+
+### 워크스테이션 노트북
+
+3D 작업에 쓰이는 노트북입니다. 기본적으로 3D모델링 DATA 3D 설계등 본격 작업형 그래픽쪽에 특화되어있는 노트북입니다. 그렇다고 게임을 못하는 것도 아니고 그래픽 성능이 엄청나기 때문에 고사양 게임도 쉽게 돌릴 수 있습니다. CPU는 기본적으로 i5 이상이며 (대부분 i7) 그래픽카다는 3D 작업에 특화되었는 쿼드로를 씁니다. 게이밍 노트북 이상급의 막강한 성능 대신 매우무겁고 가격도 종결급으로 비쌉니다. 가격대는 기본 200만원대 이상이며 정말 비싼건 500만원 이상입니다.
+
+
+
