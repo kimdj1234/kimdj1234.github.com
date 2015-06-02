@@ -4,7 +4,7 @@ title: "게이밍노트북을 찾는다면 클릭!…'6월 표준노트북'"
 author: me
 excerpt: "미디어잇"
 categories: blog
-tags: [life, mentality]
+tags: [게임,종류]
 modified:
 image:
   feature: so-simple-sample-image-4-small.jpg
