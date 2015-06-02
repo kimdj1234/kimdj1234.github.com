@@ -8,6 +8,9 @@
 
 - title: 뉴스
   url: /blog/
+  
+- title: 팁
+  url: /tip/
 
 - title: 구매
   url: http://search.11st.co.kr/SearchPrdAction.tmall?method=getTotalSearchSeller&kwd=%B3%EB%C6%AE%BA%CF
