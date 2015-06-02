@@ -9,7 +9,7 @@ image:
   <!-- creditink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/ -->
 ---
 
-                                         ##노트북의 종류와 특성
+##                                           노트북의 종류와 특성
 
 
 ### 넷북
