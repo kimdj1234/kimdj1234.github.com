@@ -2,7 +2,7 @@
 
 title: 노트북 세상
 locale: en_US
-description: 죽음의 14조
+description: Information of laoptop
 # logo: site-logo.png
 # logo: me.jpg
 logo: machine.png
@@ -39,7 +39,7 @@ owner:
   name: 14
   avatar: bio-photo.jpg
   email: djkim1102@naver.com
-  disqus-shortname: 14
+  disqus-shortname: 14조
   twitter:
   facebook: #username
   github: kimdj1234
