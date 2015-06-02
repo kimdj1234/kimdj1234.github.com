@@ -4,7 +4,7 @@ title: "MSI, 컴퓨텍스2015서 ‘아이트래킹’ 기술 탑재된 노트�
 author: me
 excerpt: "네이버뉴스"
 categories: blog
-tags: [life, background]
+tags: [게임, 기술]
 modified:
 image:
   feature: so-simple-sample-image-4-small.jpg
