@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-excerpt: "An archive of my projects."
+title: History
+excerpt: 노트북의 역사
 image:
   feature: macbook-glasses.jpg
 ---
