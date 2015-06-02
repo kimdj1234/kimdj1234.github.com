@@ -1,15 +1,16 @@
 # Site navigation links
 
-- title: 역사
+- title: 정보
   url: /about/
 
-- title: 뉴스
+- title: 역사
   url: /projects/
 
-- title: 제품
+- title: 뉴스
   url: /blog/
 
-
+- title: 제품
+  url: /www.naver.com/
 
 
 
